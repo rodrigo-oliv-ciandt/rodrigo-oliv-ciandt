@@ -14,10 +14,5 @@
 
 🚀 Movido pela paixão pela tecnologia e pela busca contínua por aprimoramento, estou sempre pronto para novas aventuras e desafios aqui no GitHub. Vamos codificar!
 
-## :triangular_flag_on_post: A little about my technical knowledge
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-oliv-ciandt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <i>“A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are.”
 ― Mr Robot</i>
